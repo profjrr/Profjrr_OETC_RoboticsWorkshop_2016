@@ -15,8 +15,8 @@ and turn off.
 ROBOT CONFIGURATION: LEGO EV3 REM Bot
 MOTORS & SENSORS:
 [I/O Port]          [Name]              [Type]                			[Location]
-motorC        			leftMotor           LEGO EV3 Motor		      Left side Motor
-motorB       				rightMotor          LEGO EV3 Motor		      Right side Motor (reversed)
+motorC        	    leftMotor           LEGO EV3 Motor		                Left side Motor
+motorB       	    rightMotor          LEGO EV3 Motor		                Right side Motor (reversed)
 ------------------------------------------------------------------------------------------------*/
 //
 //*==========================================================*//
