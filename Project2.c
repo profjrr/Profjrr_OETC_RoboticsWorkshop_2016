@@ -1,6 +1,7 @@
 //LOCATED AT: GitHub==> profjrr/Profjrr_OETC_RoboticsWorkshop_2016
 
 //Create Object Avoidance with Subroutines (PROJECT 02)
+//with errors!!!
 
 //Again, proper Computer Program Construction in ROBOTC
 //shows main() task and subroutine usage
@@ -55,7 +56,7 @@ task main()
 
 	while(true)
 	{
-		operateSonicDetector(); //test if too far or too close or don't move!
+		operateSoncDetector(); //test if too far or too close or don't move!
 
 		//Loop to monitor value in Sensor debugger window
 		sleep(50);
