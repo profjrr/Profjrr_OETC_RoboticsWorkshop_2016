@@ -32,7 +32,7 @@ void operateSonicDetector()
 		// We're too far away, move forward
 		if ((distanceToMaintain - currentDistance) < -2)
 		{
-			motor[motorB] = 30;
+			motor[motorA] = 30;
 			motor[motorC] = 30;
 		}
 		// We're too close, move backwards
