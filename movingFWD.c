@@ -32,7 +32,7 @@ task main()
 {
 	
 	int mveFWDval = 50;
-//	displayMotorValues(lineNumber, nDeviceIndex);
+
 	myMoveFWD(mveFWDval);
  
 
