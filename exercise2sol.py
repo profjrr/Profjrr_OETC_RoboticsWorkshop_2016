@@ -64,4 +64,6 @@ def mainline():
     print"\n*** this is our mainline in Python ending ***"
     return ## end of mainline in Python
 
+## added by Professor Reed to "automatically start the process"
+##
 mainline()
