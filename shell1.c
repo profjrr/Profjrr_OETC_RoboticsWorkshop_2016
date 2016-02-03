@@ -4,6 +4,8 @@
 //      but is presented here to demonstrate
 //      practical progam design ONLY!
 //
+//Available at github.com
+//https://github.com/profjrr/Profjrr_OETC_RoboticsWorkshop_2016/blob/master/shell1.c
 //
 int myval1 = 1; // defined as global
 //
